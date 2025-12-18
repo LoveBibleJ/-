@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'HanWangKaiMediumChuIn';
+  src: url('/fonts/HanWangKaiMediumChuIn.ttf') format('truetype');
+  font-display: swap;
+}
+
+.font-scripture {
+  font-family: 'HanWangKaiMediumChuIn';
+}
+
+body {
+  font-family: 'Noto Serif TC', serif;
+}
